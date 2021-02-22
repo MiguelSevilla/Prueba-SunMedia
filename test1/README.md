@@ -23,4 +23,5 @@
 
 2. test1.js
 
-3. 
+3. IE no es compatible con el método assign.
+   Se podría programar utilizando el método push.
